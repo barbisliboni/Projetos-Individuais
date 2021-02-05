@@ -1,3 +1,2 @@
-Eu sou a bárbara e sou 
 
-# Loira
+# Projetos individuais em diversas linguagens
