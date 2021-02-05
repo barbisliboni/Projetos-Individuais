@@ -1,0 +1,71 @@
+
+.puma-top{
+    width: 90rem;
+    height: 2.5rem;
+    background-color: #AE946D;
+    font-family: franklin gothic medium;
+    font-size:0.9rem;
+    color:white;
+    text-align: center;
+    padding-top:0.6rem;
+}
+
+.links{
+  color:white;
+}
+
+
+.mainNav{
+    background-color: #181818 !important;
+    height:5rem !important;
+    text-align: left;
+}
+
+#ajusteLogo{
+    position: absolute;
+    margin-left:1rem;
+    margin-top:0.5rem;
+}
+
+.dropdown:hover>.dropdown-menu {
+  display: block;
+
+}
+
+.container{
+  background-color: #181818;
+    width:84.3rem;
+    height:5rem;
+}
+
+.btnsdropdown{
+  margin-left:-8.5rem;
+  background-color: #181818 !important;
+  height:5rem !important;
+  padding-top:1.5rem !important;
+  font-size: 1.2rem !important;
+  border:none !important;
+}
+
+.menudrop{
+  background-color: white !important;
+  height:32rem !important;
+  margin-left:-19.5rem !important;
+  width:120rem !important;
+  padding-left:18rem !important;
+  padding-top:5rem !important;
+  font-size: 1.2rem !important;
+  color:#181818 !important; 
+  line-height: 2rem;
+
+}
+
+.btnsdropdownDois{
+  margin-left: 1rem;
+  background-color: #181818 !important;
+  height:5rem !important;
+  padding-top:1.5rem !important;
+  font-size: 1.2rem !important;
+  border:none !important;
+
+}
