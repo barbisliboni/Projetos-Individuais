@@ -10,8 +10,7 @@ programa
 		escreva("Insira o valor do imóvel a vista: ");
 		leia(valorImovel);
 
-		escreva("Prefere 48 parcelas ou 96? ");
-		leia(parcelas);
+		
 
 		entradaImovel = valorImovel * 0.40;
 
