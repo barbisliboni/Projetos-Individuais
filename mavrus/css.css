@@ -1,0 +1,73 @@
+.corVermelha{
+    background-color: #CD1237;
+    padding-left: 0% !important;
+    padding-right: 0% !important;
+}
+
+.btnMenu{
+    background-color: #F5F5F5;
+    margin-right: 1rem;
+
+}
+.btnMenu:hover{
+    background-color: #CD1237;
+    color: white;
+}
+
+.linhaVertical{
+    border-right: #f51844 solid 5px;
+    border-left:  #f51844 solid 5px ;
+}
+
+.linhaVerticalOpaca{
+    border-right: rgba(255, 0, 0, .3) solid 5px;
+    border-left: rgba(255, 0, 0, .3) solid 5px ;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+}
+
+.sombraMenu{
+   box-shadow: 0px 0px 0px rgb(212, 212, 212, .1), 0px -12px 10px rgba(122, 121, 121, 0.3);
+   -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+}
+
+.logoOpaco{
+    opacity: 10%;
+    filter: grayscale(5);
+    width: 12rem;
+}
+
+.divImpostoDeRenda{
+    margin-top: -25px;
+    box-shadow: 0px 0px 0px rgb(212, 212, 212, .1), 0px -5px 20px rgba(122, 121, 121, 0.3);
+   -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+}
+
+.corTexto{
+    color: #CD1237
+}
+
+.fundoContato{
+    background-color: #49DCD1;
+    margin-top: -20px;
+}
+
+.whatsAppLogo{
+    width: 1.4rem;
+    color: white;
+    margin-top: -4px;
+}
+
+.textoParalegal{
+    margin-top:-15px;
+}
+
+.divSolucoes{
+    margin-left: 80px;
+}
+
+.rowImposto{
+margin-right: 6rem !important;
+}
