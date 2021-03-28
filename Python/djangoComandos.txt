@@ -6,6 +6,10 @@
 
 | django-admin startapp nomeDaAplicacao (um projeto Django pode ter várias aplicações, cada uma com sua tarefa específica. É preciso, após nomear e criar a aplicação, declarar no settings.py, em INSTALLED_APPS ) |
 
+| python manage.py runserver (utilizaremos a linguagem python para executar o arquivo manage.py, e passaremos o parâmetro runserver para o arquivo manage) |
+
+
+
 
 
 
