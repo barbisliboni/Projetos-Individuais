@@ -1,0 +1,13 @@
+| pip install django (installando o framework Django) |
+
+| pip freeze > requirements.txt (utilizar este comando para que o pip salve em um arquivo .txt todas as bibliotecas que, até então, estão sendo utilizadas no projeto|
+
+| django-admin startproject django1 . (colocar ponto no final para ele criar os arquivos dentro da própria pasta do projeto já criada e, por boas práticas, nomear a pasta do projeto com o mesmo nome dado anteriormente, nesse caso, django1) |
+
+| django-admin startapp nomeDaAplicacao (um projeto Django pode ter várias aplicações, cada uma com sua tarefa específica. É preciso, após nomear e criar a aplicação, declarar no settings.py, em INSTALLED_APPS ) |
+
+
+
+
+
+
